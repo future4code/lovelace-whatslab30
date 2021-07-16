@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import "./components/Components"
-import styled from "./styled-components"
+
 
 
 function App() {
